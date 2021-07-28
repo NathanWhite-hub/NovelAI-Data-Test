@@ -22,9 +22,9 @@ To use, download the script and load it in your favorite Python supported editor
 After that is done, load up your favorite editor. I personally use Visual Studio Code, but if you wish to use another editor, look up a tutorial to access the terminal of your editor if it has one. If not, feel free to run the below commands in your Command Prompt or Terminal (if you're on MacOS).
 
 In the terminal window run the following commands:
-``
+```
 pip install playwright
 playwright install
-``
+```
 
 This will install the Playwright library onto your system for use. Once that is done, you should be all set. Feel free to refer to https://playwright.dev/python/docs/1.12.0/intro for further information on installation. Happy testing!
