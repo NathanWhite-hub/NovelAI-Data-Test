@@ -43,7 +43,6 @@ The script begins clicking the button that contains the text "Retry" and waits f
 
 ```
 Output 1: The AI output text is here and this is pass number 1.
-
 ```
 
 Once finished, the script clicks the undo button. Once all aiText selectors are gone, it then finishes the pass and moves onto the next pass, which is the name process above.
