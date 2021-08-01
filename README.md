@@ -24,7 +24,7 @@ playwright install
 
 The goal behind my design of this script was to make it as user friendly as I could without going overboard. Because of that, you no longer need to use an editor to use the file and/or change variables. Upon running the script, it will no longer launch a browser window that the user can see. It runs in headless mode and this is just for further comfort.
 
-**1.)** Upon executing the file, the user will recieve a prompt for how many passes they wish to do and will need to enter any number so long as it is in a format such as `200` and not something like `two-hundred`. After this, the script begins and will run until it reaches the number of passes.
+**1.)** Upon executing the file, the user will recieve a prompt for how many passes they wish to do and will need to enter any number so long as it is in a format such as `200` and not something like `two-hundred`. After this, the script begins and will run until it reaches the number of passes. **Note:** Look at my beautiful ascii art.
 
 **2.)** Once finished with the passes, it outputs a text file called ai_out.txt which will hold the AI's output. Each of the passes are indicated with a number to the left and the word "Output" such as `Output 1: The AI's text will be here`.
 
